@@ -1,0 +1,30 @@
+body{
+    color: #009688;
+}
+
+.Box {
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid #009688; 
+    padding: 15px; 
+    width: 200px;
+    height: 250px;
+      margin-top: 30px;
+      margin-left:60px;
+  }
+
+  .Box p{
+    padding-top: 30px;
+  }
+
+  #BoxButton {
+    background-color: white;
+    color:#009688;
+    border: none;
+    cursor: pointer;
+  
+  }
+  
+  .BoxPicture {
+      width:100%;
+  }
